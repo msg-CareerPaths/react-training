@@ -13,12 +13,13 @@
     - [4. Components](#4-components)
     - [5. Hooks](#5-hooks)
  - Chapter 3
-    - [6. MaterialUI and JSS](#6-scss)
+    - [6. MaterialUI and JSS](#6-materialui-and-jss)
     - [7. Routing](#7-routing)
  - Chapter 4
     - [8. Fetch API](#8-fetch-api)
  - Chapter 5
     - [9. Basic Redux](#9-basic-redux)
+ - Extra
     - [10. Redux Saga](#10-redux-saga)
 
 ## Working Mode
@@ -280,6 +281,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
   - [Understanding Redux + React in Easiest Way](https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-1-81f3209fc0e5)
   - [A beginner’s guide to Redux with React](https://medium.com/@bretcameron/a-beginners-guide-to-redux-with-react-50309ae09a14)
  
+# Extra
 ## 10. Redux Saga
 
 **Goal: trigger the Fetch API calls using actions**
