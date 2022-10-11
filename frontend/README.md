@@ -1,4 +1,4 @@
-- Here you will have to create the React Application that you will use throughout the training.
-- Don't forget to add '--template typescript' when executing create-react-app.
-- The root of the project should be directly in this frontend folder. Something like frontend/src not frontend/my-project/src.
-- If you finish a day's chapters earlier you can start working on the ones prepared for the following day.
+- Here you will have to create the React Application that you will use throughout the training
+- Don't forget to add '--template typescript' when executing create-react-app in order to use TypeScript
+- The root of the project should be directly in this frontend folder. Something like `frontend/src` not `frontend/my-project/src`
+- If you finish a day's chapters earlier you can start working on the ones prepared for the following day
