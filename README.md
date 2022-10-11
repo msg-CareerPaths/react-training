@@ -21,6 +21,8 @@
     - [9. Basic Redux](#9-basic-redux)
  - Extra
     - [10. Redux Saga](#10-redux-saga)
+    - [11. Recompose](#11-recompose)
+    - [12. Highcharts](#12-highcharts)
 
 ## Working Mode
 
