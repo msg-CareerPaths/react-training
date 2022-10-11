@@ -5,19 +5,19 @@
  - [Working Mode](#working-mode)
  - [Environment](#environment)
  - [Online Shop](#online-shop)
- - Day 1
+ - Chapter 1
     - [1. HTML and CSS Basics](#1-html-css-and-git-basics)
     - [2. TypeScript](#2-typescript)
     - [3. React Intro](#3-react-intro)
- - Day 2
+ - Chapter 2
     - [4. Components](#4-components)
     - [5. Hooks](#5-hooks)
- - Day 3
+ - Chapter 3
     - [6. SCSS](#6-scss)
     - [7. Routing](#7-routing)
- - Day 4
+ - Chapter 4
     - [8. Fetch API](#8-fetch-api)
- - Day 5
+ - Chapter 5
     - [9. Basic Redux](#9-basic-redux)
     - [10. Redux Saga](#10-redux-saga)
 
@@ -57,7 +57,7 @@ The online shop has a **shopping cart** functionality:
 These **mockups should be used as a guideline**, but improvements or deviations from them is allowed.
 **We support custom styling** in order to make the application your own.
 
-# Day 1
+# Chapter 1
 ## 1. HTML, CSS and GIT Basics
 
 **Goal**: refresh your knowledge about HTML and CSS basic concepts.
