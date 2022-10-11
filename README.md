@@ -1,4 +1,4 @@
-# .msg Career Path: React Training
+# .msg Career Paths: React Training
 
 ## Contents
 
