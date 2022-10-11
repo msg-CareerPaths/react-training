@@ -1,4 +1,4 @@
-# .MSG Career Start 2021: React Training
+# .msg Career Path: React Training
 
 ## Contents
 
