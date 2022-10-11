@@ -219,7 +219,8 @@ These **mockups should be used as a guideline**, but improvements or deviations 
  *Further Resources*:
  
   - [React Router: Redirects](https://reacttraining.com/react-router/web/example/auth-workflow)
-  
+ 
+ # Chapter 4
  ## 8. Fetch API
  
  **Goal**: communicate with your backend application using the Fetch API.
@@ -244,6 +245,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
   
   - [React Component Reference](https://reactjs.org/docs/react-component.html)
  
+ # Chapter 5
  ## 9. Basic Redux
  
  **Goal**: use Redux to manage application state and understand the difference between container and presentational components.
