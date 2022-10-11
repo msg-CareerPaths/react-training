@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "0.0.1",
-  "description": "Backend for the Angular Training",
+  "description": "Backend for the React Training",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
