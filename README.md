@@ -16,7 +16,7 @@
     - [6. MaterialUI and JSS](#6-materialui-and-jss)
     - [7. Routing](#7-routing)
  - Chapter 4
-    - [8. Fetch API](#8-fetch-api)
+    - [8. Axios](#8-axios)
  - Chapter 5
     - [9. Basic Redux](#9-basic-redux)
  - Extra
