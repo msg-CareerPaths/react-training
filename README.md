@@ -118,6 +118,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
  - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
  - [How to see your React state and props in the browser](https://www.freecodecamp.org/news/how-to-see-your-react-state-props-in-the-browser-774098a50fcc/)
 
+# Chapter 2
 ## 4. Components
 
 **Goal**: get a grip on the basics of React Components.
