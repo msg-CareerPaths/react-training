@@ -13,7 +13,7 @@
     - [4. Components](#4-components)
     - [5. Hooks](#5-hooks)
  - Chapter 3
-    - [6. SCSS](#6-scss)
+    - [6. MaterialUI and JSS](#6-scss)
     - [7. Routing](#7-routing)
  - Chapter 4
     - [8. Fetch API](#8-fetch-api)
@@ -164,6 +164,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
  
  - [Getting Started With The React Hooks API](https://www.smashingmagazine.com/2020/04/react-hooks-api-guide/)
  
+ # Chapter 3
  ## 6. MaterialUI and JSS
  
  **Goal**: understand what MaterialUI helps us with and how to style components using JSS.
