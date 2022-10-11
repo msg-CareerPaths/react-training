@@ -192,9 +192,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
  
  *Further Resources*:
  
- - [Theming Bulma](https://bulma.io/documentation/customize/with-node-sass/)
- - [Bulma Documentation](https://bulma.io/documentation/)
- - [SCSS Basics](https://medium.com/web-development-articles/scss-basics-279ce9c0acb8)
+ - [Styled Components](https://mui.com/system/styled/)
  
  ## 7. Routing
  
@@ -224,30 +222,27 @@ These **mockups should be used as a guideline**, but improvements or deviations 
   - [React Router: Redirects](https://reacttraining.com/react-router/web/example/auth-workflow)
  
  # Chapter 4
- ## 8. Fetch API
+ ## 8. Axios
  
- **Goal**: communicate with your backend application using the Fetch API.
+ **Goal**: communicate with your backend application using Axios.
  
  **Required Reading**:
  
   - [React: State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-  - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-  - [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data)
+  - [Axios Docs](https://www.npmjs.com/package/axios)
+  - [Axios with Typescript](https://bobbyhadz.com/blog/typescript-http-request-axios)
+  - [How to fetch data in React with Axios](https://www.robinwieruch.de/react-fetching-data)
  
 **Online Shop**:
 
- > Use the Fetch API to read the products from the backend to fill in the product list. 
+ > Use Axios to read the products from the backend to fill in the product list. 
  > 
  > When navigating to the product detail page, read the product information from the backend.
  >
  > Add a new "Delete" button on the detail page, which calls the backend to remove a product from the catalogue.
  >
  > Add a new "Checkout" button on the shopping cart page, which creates a new order on the backend.
- 
- *Further Resources*:
   
-  - [React Component Reference](https://reactjs.org/docs/react-component.html)
- 
  # Chapter 5
  ## 9. Basic Redux
  
@@ -286,7 +281,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
 # Extra
 ## 10. Redux Saga
 
-**Goal: trigger the Fetch API calls using actions**
+**Goal: trigger the Axios calls using actions**
 
 **Required Reading**:
  
@@ -296,7 +291,7 @@ These **mockups should be used as a guideline**, but improvements or deviations 
   
 **Online Shop**:
  
-  > Move all the fetch API calls into dedicated Sagas. 
+  > Move all the Axios calls into dedicated Sagas. 
   
 *Further Resources*:
  
