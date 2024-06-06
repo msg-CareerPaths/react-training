@@ -1,17 +1,20 @@
-## opt.1 Redux Saga
+# Redux Saga
 
-**Goal: trigger the Axios calls using actions**
+**Goal:** 
+- Trigger the Axios calls using actions
 
-**Required Reading**:
+## Mandatory Materials
+
+**Reading**:
 
 - [Redux Saga: Getting Started](https://redux-saga.js.org/)
 - [Redux Saga: Beginner Tutorial](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
 - [A Newb's guide to Redux Saga](https://medium.com/@adlusk/a-newbs-guide-to-redux-saga-e597d8e6c486)
 
-**Online Shop**:
+## Online Shop
 
 > Move all the Axios calls into dedicated Sagas.
 
-_Further Resources_:
+## Further Resources
 
 - [Handle side-effects with Redux-Saga](https://scalac.io/redux-saga-handle-side-effects-2/)

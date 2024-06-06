@@ -1,15 +1,21 @@
-## 2.3 Routing
+# 6. Routing [4-8 hours]
 
-**Goal**: understand the basics of React Router and add routing to your project
+**Goal:**
+- Understand the basics of React Router
+- Add routing to your project
 
-**Required Reading**:
+## Mandatory Materials
 
-- [React Router: Quick Start](https://reacttraining.com/react-router/web/guides/quick-start)
-- [React Router: Components](https://reacttraining.com/react-router/web/guides/basic-components)
-- [A Simple React Router Tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
-- [React: Handling Events](https://reactjs.org/docs/handling-events.html)
+**Videos**
+- [React Router v6](https://youtu.be/Ul3y1LXxzdU)
 
-**Online Shop**:
+**Reading**
+- [React Router Overview](https://reactrouter.com/en/main/start/overview)
+- [React Router Tutorial](https://reactrouter.com/en/main/start/tutorial)
+- [Router Components: Browser Router](https://reactrouter.com/en/main/router-components/browser-router)
+- [React Router: Redirects](https://v5.reactrouter.com/web/api/Redirect)
+
+## Online Shop
 
 > Add a button next to each product from the product list. You can use it to navigate to a specific product's detail page.
 >
@@ -20,7 +26,3 @@
 > Add a navigation which redirects users from the default path ('/') to the '/products' page and displays by default the list of all products.
 >
 > Enhance your app with routing parameters, such that you can navigate to a specific product's detail page.
-
-_Further Resources_:
-
-- [React Router: Redirects](https://reacttraining.com/react-router/web/example/auth-workflow)

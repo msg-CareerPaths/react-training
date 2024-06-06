@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Introduction](https://github.com/msg-CareerPaths/react-training/blob/master/chapters/000-introduction.md)
+- [Introduction](https://github.com/msg-CareerPaths/react-training/blob/master/chapters/000-intro.md)
 - [Chapter 1: Basics](https://github.com/msg-CareerPaths/react-training/blob/master/chapters/100-basics.md)
   - [1.1 HTML, CSS and GIT Basics](https://github.com/msg-CareerPaths/react-training/blob/master/chapters/110-html-css-git.md)
   - [1.2 TypeScript](https://github.com/msg-CareerPaths/react-training/blob/master/chapters/120-typescript.md)
