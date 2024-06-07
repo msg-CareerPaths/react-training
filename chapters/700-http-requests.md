@@ -22,7 +22,7 @@
 
 Note you should create some `Service` classes instead of calling fetch directly in your components.
 
-> Use Axios to read the products from the backend to fill in the product list.
+> Use Fetch to read the products from the backend to fill in the product list.
 >
 > When navigating to the product detail page, read the product information from the backend.
 >
