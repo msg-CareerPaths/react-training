@@ -66,8 +66,8 @@ This timeline is just for guidance, take time to understand the concepts before 
 - **Day 3**: Chapter 5,
 - **Day 4**: Chapter 6, Chapter 7, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch
 - **Day 5**: Chapter 8
-- **Day 6**: Chapter 9, Chapter 10
-- **Day 7**: Chapter 10, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch
+- **Day 6**: Chapter 9, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch, Chapter 10
+- **Day 7**: Chapter 10, Chapter 11
 - **Day 8**: Chapter 11, Optional Chapters or Fix Review Remarks/Refactor Code
 
 ## ZScaler Issues (OPTIONAL - only when needed)
