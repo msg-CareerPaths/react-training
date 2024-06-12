@@ -56,7 +56,7 @@ These mockups should be used as a guideline, but improvements or deviations from
 ## Notes
 - If you find any link broken, **please** inform your mentor to give you an alternative.
 - Try to speed up the videos to *1.5x/2x* if you find them too slow.
-- Try to connect to the Backend from the Spring Training if you have training completed (you might need to change the port for your requests)
+- Try to connect to the API from the Backend Training (Node.js, Spring, etc.) if you have training completed (you might need to change the port for your requests)
 
 ## Timeline
 This timeline is just for guidance, take time to understand the concepts before moving on.
