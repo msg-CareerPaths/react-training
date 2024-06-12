@@ -29,7 +29,7 @@ Recall that the logic should be added to the `container` components and the pres
 >
 > Add some validation to your form (ex: check that the fields are not empty, that the price and weight inputs contain only numbers, etc.)
 >
-> Also create a new "Add" button on the product list. Pressing this button should open a view for creating a new product (which the same structure and buttons as the edit view).
+> Also create a new "Add" button on the product list. Pressing this button should open a view for creating a new product (which has the same structure and buttons as the edit view).
 
 ## Further Resources
 
