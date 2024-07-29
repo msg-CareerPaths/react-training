@@ -52,4 +52,4 @@ For the moment, we will use mock data across all components. The data will be de
 - [React Styling Variants](https://www.w3schools.com/react/react_css_styling.asp)
 - [The `.map` function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Why do I need Keys in React Lists?](https://medium.com/@adhithiravi/why-do-i-need-keys-in-react-lists-dbb522188bbb)
-- [React Virtual DOM Explained](https://programmingwithmosh.com/react/react-virtual-dom-explained/)
+- [React Virtual DOM Explained](https://blog.logrocket.com/virtual-dom-react/)
