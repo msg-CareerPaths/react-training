@@ -1,7 +1,7 @@
 # 7. HTTP Requests [4-8 hours]
 
 **Goal:**
-- Communicate with your backend application using Axios.
+- Communicate with your backend application using Fetch.
 - Learn how to make an HTTP call
 
 ## Mandatory Materials
