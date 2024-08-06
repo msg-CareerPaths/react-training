@@ -32,5 +32,3 @@
 - [Redux: TypeScript Setup](https://redux.js.org/tutorials/typescript-quick-start)
 - [Thinking in Redux](https://redux.js.org/understanding/thinking-in-redux/motivation)
 - [Redux Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
-- [Understanding Redux + React in Easiest Way](https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-1-81f3209fc0e5)
-- [A beginner’s guide to Redux with React](https://medium.com/@bretcameron/a-beginners-guide-to-redux-with-react-50309ae09a14)
